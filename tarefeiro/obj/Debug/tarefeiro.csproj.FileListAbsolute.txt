@@ -1,0 +1,7 @@
+C:\Projetos\tarefeiro\tarefeiro\bin\Debug\tarefeiro.exe.config
+C:\Projetos\tarefeiro\tarefeiro\bin\Debug\tarefeiro.exe
+C:\Projetos\tarefeiro\tarefeiro\bin\Debug\tarefeiro.pdb
+C:\Projetos\tarefeiro\tarefeiro\obj\Debug\tarefeiro.csprojAssemblyReference.cache
+C:\Projetos\tarefeiro\tarefeiro\obj\Debug\tarefeiro.csproj.CoreCompileInputs.cache
+C:\Projetos\tarefeiro\tarefeiro\obj\Debug\tarefeiro.exe
+C:\Projetos\tarefeiro\tarefeiro\obj\Debug\tarefeiro.pdb
